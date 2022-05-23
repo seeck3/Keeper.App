@@ -1,10 +1,8 @@
-# Getting Started with Create React App
+# Template
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) TS template.
+npx create-react-app my-app --template redux-typescript
 
-## Available Scripts
-
-In the project directory, you can run:
+[https://github.com/reduxjs/cra-template-redux](https://github.com/reduxjs/cra-template-redux)
 
 ### `npm start`
 
