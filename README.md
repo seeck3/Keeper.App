@@ -1,6 +1,6 @@
 # Template
 
-npx create-react-app my-app --template redux-typescript
+`npx create-react-app my-app --template redux-typescript`
 
 [https://github.com/reduxjs/cra-template-redux](https://github.com/reduxjs/cra-template-redux)
 
